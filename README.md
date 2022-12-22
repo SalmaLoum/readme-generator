@@ -1,41 +1,51 @@
+# README Generator
 
-# ';lkjhg
-----
+---
 
+## Badge
 
-## Badge 
-![Github license](https://img.shields.io/static/v1?label=license&message=MIT&color=informational)
+![Github license](https://img.shields.io/static/v1?label=License&message=MIT&color=informational)
 
 ## Description
-,m nbvc
+
+This utility allows developers to create a professional README file using the command line.
 
 ## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Contributing](#contributing)
-* [Questions](#questions)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 ## Installation
-lkjhgf
+
+Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub. Be sure to create your .gitignore file before installing any npm dependencies.
 
 ## Usage
-.,mnbv
+
+Make sure that your repo includes a package.json with the required dependencies. You can create one by running npm init when you first set up the project, before installing any dependencies.
 
 ## Credits
-,mkjnbv
+
+UCLA Bootcamp
 
 ## License
-undefined
+
+MIT
 
 ## Contributing
-,mnbv
+
+N/A
 
 ## Tests
 
+N/A
+
 ## Questions
-- For any questions related to this app, please contact: lkjhgfd. 
-- You can access my Github profile here: [https://github.com/lkjhgfd](https://github.com/lkjhgfd)
-----
-		
+
+- For any questions related to this app, please contact: goforsalma@gmail.com.
+- You can access my Github profile here: [https://github.com/SalmaLoum](https://github.com/SalmaLoum)
+
+---
