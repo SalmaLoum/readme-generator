@@ -6,7 +6,7 @@
 
 ## Description
 
-This utility allows developers to create a professional README file using the command line.
+This utility allows developers to create a professional README file using the command line
 
 ## Table of Contents
 
