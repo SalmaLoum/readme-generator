@@ -66,7 +66,7 @@ inquirer
   // creating file name
   .then((data) => {
     console.log(data);
-    const filename = `README.md`;
+    const filename = `README_sample.md`;
 
     //Readme content
     const md = `
