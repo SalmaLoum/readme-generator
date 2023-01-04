@@ -59,7 +59,7 @@ inquirer
       type: "list",
       message: "What license was used for this project?",
       name: "projectLicense",
-      choices: ["MIT", "Apache License 2.0", "ISC"],
+      choices: ["MIT", "Apache2.0", "ISC"],
     },
   ])
 
