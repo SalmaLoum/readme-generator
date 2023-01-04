@@ -1,7 +1,5 @@
 # README Generator
 
----
-
 ## Badge
 
 ![Github license](https://img.shields.io/static/v1?label=License&message=MIT&color=informational)
@@ -29,11 +27,12 @@ Make sure that your repo includes a package.json with the required dependencies.
 
 ## Credits
 
-UCLA Bootcamp
+- [Salma Loum](https://github.com/SalmaLoum)
+- [UCLA Extension Bootcamp](https://www.uclaextension.edu/?gclid=Cj0KCQiAgribBhDkARIsAASA5btdbwAz8x25r3b1deoRNIGxfkPFL11rAQMuCgQ7HYiqBH8CLr9CgLoaAktlEALw_wcB&gclsrc=aw.ds)
 
 ## License
 
-MIT
+Please refer to the LICENSE in the repo.
 
 ## Contributing
 
@@ -41,7 +40,9 @@ N/A
 
 ## Tests
 
-N/A
+After opening your terminal and navigating to the repo's clone,
+type node index.js to start the application through your terminal, and follow the prompt as shown below:
+![readme generator](assets/gif-readme.gif)
 
 ## Questions
 

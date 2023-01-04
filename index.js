@@ -71,8 +71,6 @@ inquirer
     //Readme content
     const md = `
 # ${data.projectTitle}
-----
-
 
 ## Badge 
 ![Github license](https://img.shields.io/static/v1?label=License&message=${data.projectLicense}&color=informational)
