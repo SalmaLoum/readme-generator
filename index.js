@@ -96,7 +96,7 @@ ${data.projectUsage}
 ${data.projectCredits}
 
 ## License
-${data.licenseText}
+${data.projectLicense}
 
 ## Contributing
 ${data.projectContribution}
